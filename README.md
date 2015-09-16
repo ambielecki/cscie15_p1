@@ -13,5 +13,5 @@ Not required for P1
 No login required.
 
 ## Outside Code
-Bootstrap: http//getbootstrap.com
-jQuery: http//jquery.com
+[Bootstrap:] (http//getbootstrap.com)..
+[jQuery:] (http//jquery.com)
